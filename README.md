@@ -39,7 +39,7 @@ I believe great technology is built by great teams. My approach is people-first:
 - Working across the stack with AWS, .NET, React (Web), Flutter (Mobile), and GitHub devOps.
 - Delivering cloud-native applications prioritising scalability, reliability, and security.
 - Championing technical delivery of complex, fast-evolving requirements.
-- Fostering a collaborative, inclusive team culture, helping new members contribute confidently.
+- Fostering a collaborative, inclusive team culture.
 
 ### **MHR** (Aug 2023 – Jun 2025)
 *.NET Software Engineer, Ruddington, UK (Hybrid)*  
