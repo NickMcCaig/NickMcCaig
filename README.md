@@ -34,9 +34,9 @@ I believe great technology is built by great teams. My approach is people-first:
 ## 💼 Experience
 
 ### **Experian** (Jun 2025 – Present)
-*Full Stack Software Engineer, Enterprise Cloud Services (ECS), Nottingham, UK (Hybrid)*  
+*Full Stack Software Engineer, Experian Consumer Services (ECS), Nottingham, UK (Hybrid)*  
 - Building and supporting global financial products as part of ECS.
-- Working across the stack with AWS, .NET, React (Web), Flutter (Mobile), and GitHub.
+- Working across the stack with AWS, .NET, React (Web), Flutter (Mobile), and GitHub devOps.
 - Delivering cloud-native applications prioritising scalability, reliability, and security.
 - Championing technical delivery of complex, fast-evolving requirements.
 - Fostering a collaborative, inclusive team culture, helping new members contribute confidently.
